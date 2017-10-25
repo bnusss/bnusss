@@ -1,11 +1,11 @@
 # bnusss
 
-## Index
-1. [Topics](#topics)
-2. [Basic Theories and Methods](#theories_methods)
-3. [Members](#members)
+## 索引
+1. [关注主题](#topics)
+2. [基本理论与方法](#theories_methods)
+3. [成员介绍](#members)
 
-## Topics
+## 关注主题
 
 ### 网络的空间嵌入
 ![Attentionnetworkexampleindiana.png](http://wiki.swarma.net/images/8/85/Attentionnetworkexampleindiana.png)
@@ -176,8 +176,7 @@ Lei Dong, Ruiqi Li,Jiang Zhang, Zengru Di: [Population-weighted efficiency in tr
 - [Jake研究小组关注课题](http://wiki.swarma.net/index.php/Jake%E7%A0%94%E7%A9%B6%E5%B0%8F%E7%BB%84%E5%85%B3%E6%B3%A8%E8%AF%BE%E9%A2%98)
 
 
-## Basic Theories and Methods
-
+## 基本理论与方法
 ### 开放流网络
 
 ![Exampleflownetwork](http://wiki.swarma.net/images/4/4c/Exampleflownetwork.PNG)
@@ -233,5 +232,5 @@ J.Zhang, Y.J. Feng: ['Common Patterns of Energy Flow and Biomass Distribution on
 - Jiang Zhang,Lingfei Wu: [Allometry and Dissipation of Ecological Flow Networks](http://www.swarma.org/thesis/download.asp?address=doc/jake_371.pdf&type=1&id=372); PLoS ONE 2013, 8(9): e72525.
 
 
-## Members
+## 成员介绍
 * [Jake](http://wiki.swarma.net/index.php/Jake)
